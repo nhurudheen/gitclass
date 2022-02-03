@@ -23,7 +23,7 @@
                             <input type="text" class="form-control" id="username" name="email" placeholder="email" />
                         </div>
                         <div class="mb-3">
-                            <label class="form-label">Full Name</label>
+                            <label class="form-label">Full Family Name</label>
                             <input type="text" class="form-control" id="password" name="name" placeholder="Full Name" />
                         </div>
                       
