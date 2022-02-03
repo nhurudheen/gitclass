@@ -19,7 +19,7 @@
                 <div class="modal-body">
                     <form action="" method="post">
                         <div class="mb-3">
-                            <label class="form-label">Email Address</label>
+                            <label class="form-label">Username like Email</label>
                             <input type="text" class="form-control" id="username" name="email" placeholder="email" />
                         </div>
                         <div class="mb-3">
